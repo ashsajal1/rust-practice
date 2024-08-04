@@ -18,5 +18,4 @@ impl Human {
 }
 
 mod child;
-
 pub use child::Child;
